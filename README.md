@@ -9,9 +9,9 @@ Este projeto reúne uma planilha Excel (`Calculadora.xlsx`) para calcular result
 1. Centralizar o cálculo dos valores **mínimos**, **máximos** da fórmula de Farmacologia Avançada, e derivar a quantidade de poções criadas a partir de limiares de diferença entre **A** e **B**.
 
 ### Fórmula principal
-$$
-\text{INT} + \frac{\text{DEX}}{2} + \text{SOR} + \text{CLASSE} + \text{Rand}[30,150] + (\text{BASE} - 100) + (\text{PESQ\_POÇÕES} \times 5) + (\text{PROT\_QUÍMICA} \times \text{Rand}[4,10])
-$$
+INT + (DEX/2) + SOR + CLASSE + Rand[30,150] + (BASE - 100) + (PESQ_POÇÕES * 5) + (PROT_QUÍMICA * Rand[4,10])
+
+
 
 
 ---
