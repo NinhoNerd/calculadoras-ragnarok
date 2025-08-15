@@ -13,6 +13,7 @@ $$
 \text{INT} + \frac{\text{DEX}}{2} + \text{SOR} + \text{CLASSE} + \text{Rand}[30,150] + (\text{BASE} - 100) + (\text{PESQ\_POÇÕES} \times 5) + (\text{PROT\_QUÍMICA} \times \text{Rand}[4,10])
 $$
 
+
 ---
 
 ## Requisitos
