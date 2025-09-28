@@ -52,6 +52,8 @@ pip install -r requirements.txt
 
 # Execute o projeto
 python -m calc_app
+```
+---
 
 ## 📦 Estrutura do Projeto
 
@@ -62,13 +64,13 @@ src/
      ├── assets/            # Ícones e recursos visuais
      ├── __main__.py        # Ponto de entrada da aplicação
      └── config.py          # Configurações gerais
-
+---
 
 ## 🤝 Contribuindo
 Este projeto está em estágio inicial (alpha), e toda ajuda é bem-vinda!
 - Abra uma issue para sugerir melhorias ou reportar bugs.
 - Envie pull requests com novas funcionalidades ou correções.
-
+---
 ## 📜 Licença
 Este projeto é distribuído sob a licença MIT.
 Sinta-se livre para usar, modificar e compartilhar.
