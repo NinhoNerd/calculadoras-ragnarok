@@ -1,0 +1,29 @@
+{
+  "schema": "profile.v1",
+  "stats": {
+    "int_stat": 100,
+    "des_stat": 100,
+    "sor_stat": 100,
+    "for_stat": 100,
+    "agi_stat": 100,
+    "vit_stat": 100
+  },
+  "levels": {
+    "job_level": 50,
+    "base_level": 120
+  },
+  "skills": {
+    "potion_research": 10,
+    "chemical_protection_full": 5,
+    "advanced_pharmacy": 10,
+    "pharmacy": 10
+  },
+  "buffs": {
+    "gloria": false,
+    "bencao": false,
+    "comida_int_grande": false,
+    "comida_sor_grande": false,
+    "comida_des_grande": false,
+    "bolinho_divino": false
+  }
+}

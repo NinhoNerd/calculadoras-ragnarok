@@ -1,0 +1,61 @@
+# ======================
+# Configuração do Projeto
+# ======================
+
+# IDEs e editores
+.idea/
+.vscode/
+*.code-workspace
+
+# Ambientes virtuais
+.venv/
+env/
+venv/
+ENV/
+
+# Build e distribuição
+build/
+dist/
+*.egg-info/
+*.spec
+CalculadoraRagnarok-*.zip
+
+# Testes e cache
+tests/
+.pytest_cache/
+.coverage
+coverage.xml
+htmlcov/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Logs
+*.log
+*.out
+*.err
+
+# Arquivos temporários
+*.tmp
+*.temp
+*.swp
+*.swo
+
+# Arquivos de sistema
+.DS_Store
+Thumbs.db
+
+# Arquivos específicos do projeto
+Calculadora.xlsm
+CalculadoraRagnarok.spec
+pyproject.toml.txt
+run_app.py
+
+# ======================
+# Extras opcionais
+# ======================
+# Arquivos de configuração local (se criar)
+.env
+*.local

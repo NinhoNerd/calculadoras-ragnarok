@@ -1,0 +1,430 @@
+{
+  "schema": "items.v1",
+  "count": 53,
+  "items": [
+    {
+      "id": 504,
+      "name_pt": "Poção Branca",
+      "name_en": null,
+      "icon": "504.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 507,
+      "name_pt": "Erva Vermelha",
+      "name_en": null,
+      "icon": "507.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 508,
+      "name_pt": "Erva Amarela",
+      "name_en": null,
+      "icon": "508.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 509,
+      "name_pt": "Erva Branca",
+      "name_en": null,
+      "icon": "509.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 510,
+      "name_pt": "Erva Azul",
+      "name_en": null,
+      "icon": "510.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 511,
+      "name_pt": "Erva Verde",
+      "name_en": null,
+      "icon": "511.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 514,
+      "name_pt": "Uvas",
+      "name_en": null,
+      "icon": "514.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 518,
+      "name_pt": "Mel",
+      "name_en": null,
+      "icon": "518.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 522,
+      "name_pt": "Mastela",
+      "name_en": null,
+      "icon": "522.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 523,
+      "name_pt": "Água Benta",
+      "name_en": null,
+      "icon": "523.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 525,
+      "name_pt": "Panacéia",
+      "name_en": null,
+      "icon": "525.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 526,
+      "name_pt": "Geleia Real",
+      "name_en": null,
+      "icon": "526.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 528,
+      "name_pt": "Ração para Monstros",
+      "name_en": null,
+      "icon": "528.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 568,
+      "name_pt": "Limão",
+      "name_en": null,
+      "icon": "568.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 576,
+      "name_pt": "Fruta Espinhosa",
+      "name_en": null,
+      "icon": "576.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 607,
+      "name_pt": "Fruto de Yggdrasil",
+      "name_en": null,
+      "icon": "607.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 608,
+      "name_pt": "Semente de Yggdrasil",
+      "name_en": null,
+      "icon": "608.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 610,
+      "name_pt": "Folha de Yggdrasil",
+      "name_en": null,
+      "icon": "610.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 645,
+      "name_pt": "Poção da Concentração",
+      "name_en": null,
+      "icon": "645.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 656,
+      "name_pt": "Poção do Despertar",
+      "name_en": null,
+      "icon": "656.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 713,
+      "name_pt": "Garrafa Vazia",
+      "name_en": null,
+      "icon": "713.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 921,
+      "name_pt": "Esporo de Cogumelo",
+      "name_en": null,
+      "icon": "921.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 969,
+      "name_pt": "Ouro",
+      "name_en": null,
+      "icon": "969.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 970,
+      "name_pt": "Álcool",
+      "name_en": null,
+      "icon": "970.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 1033,
+      "name_pt": "Raiz de Planta Carnívora",
+      "name_en": null,
+      "icon": "1033.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 1092,
+      "name_pt": "Tubo de Ensaio",
+      "name_en": null,
+      "icon": "1092.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 1093,
+      "name_pt": "Garrafa de Poção",
+      "name_en": null,
+      "icon": "1093.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 6210,
+      "name_pt": "Semente de Planta Selvagem",
+      "name_en": null,
+      "icon": "6210.png",
+      "type": "final",
+      "recipe": "10_576"
+    },
+    {
+      "id": 6211,
+      "name_pt": "Semente de Planta Sanguessuga",
+      "name_en": null,
+      "icon": "6211.png",
+      "type": "final",
+      "recipe": "10_1033"
+    },
+    {
+      "id": 6212,
+      "name_pt": "Esporo de Cogumelo Explosivo",
+      "name_en": null,
+      "icon": "6212.png",
+      "type": "final",
+      "recipe": "10_921+5_7033+2_6244"
+    },
+    {
+      "id": 6244,
+      "name_pt": "Mistura de Pólvora",
+      "name_en": null,
+      "icon": "6244.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 7033,
+      "name_pt": "Esporo Venenoso",
+      "name_en": null,
+      "icon": "7033.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 7453,
+      "name_pt": "Molho Doce",
+      "name_en": null,
+      "icon": "7453.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 7455,
+      "name_pt": "Molho Picante",
+      "name_en": null,
+      "icon": "7455.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 11621,
+      "name_pt": "Xarope Vermelho",
+      "name_en": null,
+      "icon": "11621.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 11622,
+      "name_pt": "Xarope Amarelo",
+      "name_en": null,
+      "icon": "11622.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 11624,
+      "name_pt": "Xarope Azul",
+      "name_en": null,
+      "icon": "11624.png",
+      "type": "material",
+      "recipe": ""
+    },
+    {
+      "id": 12422,
+      "name_pt": "Poção Pequena de HP",
+      "name_en": null,
+      "icon": "12422.png",
+      "type": "final",
+      "recipe": "10_713+10_509+1_7455+5_528"
+    },
+    {
+      "id": 12423,
+      "name_pt": "Poção Média de HP",
+      "name_en": null,
+      "icon": "12423.png",
+      "type": "final",
+      "recipe": "10_713+10_509+10_508+1_7455"
+    },
+    {
+      "id": 12424,
+      "name_pt": "Poção Grande de HP",
+      "name_en": null,
+      "icon": "12424.png",
+      "type": "final",
+      "recipe": "10_713+15_509+3_522+1_523+1_7455"
+    },
+    {
+      "id": 12425,
+      "name_pt": "Poção Pequena de SP",
+      "name_en": null,
+      "icon": "12425.png",
+      "type": "final",
+      "recipe": "10_713+10_568+10_514+1_7453"
+    },
+    {
+      "id": 12426,
+      "name_pt": "Poção Média de SP",
+      "name_en": null,
+      "icon": "12426.png",
+      "type": "final",
+      "recipe": "10_713+10_518+10_510+1_7453"
+    },
+    {
+      "id": 12427,
+      "name_pt": "Poção Grande de SP",
+      "name_en": null,
+      "icon": "12427.png",
+      "type": "final",
+      "recipe": "10_713+10_526+15_510+1_7453"
+    },
+    {
+      "id": 12428,
+      "name_pt": "Poção Branca Especial",
+      "name_en": null,
+      "icon": "12428.png",
+      "type": "final",
+      "recipe": "10_1092+20_504+10_509+1_970"
+    },
+    {
+      "id": 12436,
+      "name_pt": "Poção Vitata 500",
+      "name_en": null,
+      "icon": "12436.png",
+      "type": "final",
+      "recipe": "10_1092+10_514+10_518+10_510"
+    },
+    {
+      "id": 12437,
+      "name_pt": "Suco Celular Enriquecido",
+      "name_en": null,
+      "icon": "12437.png",
+      "type": "final",
+      "recipe": "10_1092+5_7455+5_656+5_645"
+    },
+    {
+      "id": 12475,
+      "name_pt": "Poção de Recuperação",
+      "name_en": null,
+      "icon": "12475.png",
+      "type": "final",
+      "recipe": "10_1092+1_610+20_511+1_522+5_525"
+    },
+    {
+      "id": 100231,
+      "name_pt": "Poção X",
+      "name_en": null,
+      "icon": "100231.png",
+      "type": "final",
+      "recipe": "10_1092+10_607+5_969"
+    },
+    {
+      "id": 100232,
+      "name_pt": "Energético Físico",
+      "name_en": null,
+      "icon": "100232.png",
+      "type": "final",
+      "recipe": "10_1092+45_507+5_608"
+    },
+    {
+      "id": 100233,
+      "name_pt": "Energético Mágico",
+      "name_en": null,
+      "icon": "100233.png",
+      "type": "final",
+      "recipe": "10_1092+15_510+5_608"
+    },
+    {
+      "id": 1100003,
+      "name_pt": "Elixir Vermelho",
+      "name_en": null,
+      "icon": "1100003.png",
+      "type": "final",
+      "recipe": "5_1093+10_713+15_11621"
+    },
+    {
+      "id": 1100004,
+      "name_pt": "Elixir Azul",
+      "name_en": null,
+      "icon": "1100004.png",
+      "type": "final",
+      "recipe": "5_1093+10_713+15_11624"
+    },
+    {
+      "id": 1100005,
+      "name_pt": "Elixir Dourado",
+      "name_en": null,
+      "icon": "1100005.png",
+      "type": "final",
+      "recipe": "5_1093+10_713+10_11622+10_11623"
+    }
+  ]
+}
