@@ -56,7 +56,7 @@ python -m calc_app
 ---
 
 ## 📦 Estrutura do Projeto
-
+```bash
 src/
  └── calc_app/
      ├── core/              # Engine de cálculos e lógica principal
@@ -64,6 +64,8 @@ src/
      ├── assets/            # Ícones e recursos visuais
      ├── __main__.py        # Ponto de entrada da aplicação
      └── config.py          # Configurações gerais
+```
+
 ---
 
 ## 🤝 Contribuindo
